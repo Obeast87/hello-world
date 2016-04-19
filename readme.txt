@@ -1,4 +1,4 @@
-This is the most advanced Hello World in existance. Can you solve it's deep mystery?
+This is the most advanced Hello World in existence. Can you solve it's deep mystery?
 
 ________________________
 Release History/Changelog
